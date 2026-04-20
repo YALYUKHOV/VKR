@@ -721,7 +721,7 @@ MONGO:
 <img width="974" height="513" alt="sessions" src="https://github.com/user-attachments/assets/3c05b8a1-fa82-4e64-9124-d3a01380fd23" />
 <img width="1006" height="646" alt="movies" src="https://github.com/user-attachments/assets/e3492b45-5def-42f1-a728-82b6275abeec" />
 
-#Postgre:
+# Postgre:
 <img width="396" height="293" alt="image" src="https://github.com/user-attachments/assets/e953b7dc-f169-4a9f-8cb4-d5f4bf246d88" />
 
 SELECT table_name, column_name, data_type
