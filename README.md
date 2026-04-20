@@ -93,239 +93,239 @@
 <img width="1358" height="679" alt="1" src="https://github.com/user-attachments/assets/6fbbae95-c830-4446-96b6-22eafe1d1e54" />
 
 MONGO:
-{
-  comments: {
-    _id: 'object',
-    '_id.buffer': 'object',
-    '_id.buffer.0': 'number',
-    '_id.buffer.1': 'number',
-    '_id.buffer.2': 'number',
-    '_id.buffer.3': 'number',
-    '_id.buffer.4': 'number',
-    '_id.buffer.5': 'number',
-    '_id.buffer.6': 'number',
-    '_id.buffer.7': 'number',
-    '_id.buffer.8': 'number',
-    '_id.buffer.9': 'number',
-    '_id.buffer.10': 'number',
-    '_id.buffer.11': 'number',
-    '_id.buffer.readBigUInt64LE': 'function',
-    '_id.buffer.readBigUInt64BE': 'function',
-    '_id.buffer.readBigUint64LE': 'function',
-    '_id.buffer.readBigUint64BE': 'function',
-    '_id.buffer.readBigInt64LE': 'function',
-    '_id.buffer.readBigInt64BE': 'function',
-    '_id.buffer.writeBigUInt64LE': 'function',
-    '_id.buffer.writeBigUInt64BE': 'function',
-    '_id.buffer.writeBigUint64LE': 'function',
-    '_id.buffer.writeBigUint64BE': 'function',
-    '_id.buffer.writeBigInt64LE': 'function',
-    '_id.buffer.writeBigInt64BE': 'function',
-    '_id.buffer.readUIntLE': 'function',
-    '_id.buffer.readUInt32LE': 'function',
-    '_id.buffer.readUInt16LE': 'function',
-    '_id.buffer.readUInt8': 'function',
-    '_id.buffer.readUIntBE': 'function',
-    '_id.buffer.readUInt32BE': 'function',
-    '_id.buffer.readUInt16BE': 'function',
-    '_id.buffer.readUintLE': 'function',
-    '_id.buffer.readUint32LE': 'function',
-    '_id.buffer.readUint16LE': 'function',
-    '_id.buffer.readUint8': 'function',
-    '_id.buffer.readUintBE': 'function',
-    '_id.buffer.readUint32BE': 'function',
-    '_id.buffer.readUint16BE': 'function',
-    '_id.buffer.readIntLE': 'function',
-    '_id.buffer.readInt32LE': 'function',
-    '_id.buffer.readInt16LE': 'function',
-    '_id.buffer.readInt8': 'function',
-    '_id.buffer.readIntBE': 'function',
-    '_id.buffer.readInt32BE': 'function',
-    '_id.buffer.readInt16BE': 'function',
-    '_id.buffer.writeUIntLE': 'function',
-    '_id.buffer.writeUInt32LE': 'function',
-    '_id.buffer.writeUInt16LE': 'function',
-    '_id.buffer.writeUInt8': 'function',
-    '_id.buffer.writeUIntBE': 'function',
-    '_id.buffer.writeUInt32BE': 'function',
-    '_id.buffer.writeUInt16BE': 'function',
-    '_id.buffer.writeUintLE': 'function',
-    '_id.buffer.writeUint32LE': 'function',
-    '_id.buffer.writeUint16LE': 'function',
-    '_id.buffer.writeUint8': 'function',
-    '_id.buffer.writeUintBE': 'function',
-    '_id.buffer.writeUint32BE': 'function',
-    '_id.buffer.writeUint16BE': 'function',
-    '_id.buffer.writeIntLE': 'function',
-    '_id.buffer.writeInt32LE': 'function',
-    '_id.buffer.writeInt16LE': 'function',
-    '_id.buffer.writeInt8': 'function',
-    '_id.buffer.writeIntBE': 'function',
-    '_id.buffer.writeInt32BE': 'function',
-    '_id.buffer.writeInt16BE': 'function',
-    '_id.buffer.readFloatLE': 'function',
-    '_id.buffer.readFloatBE': 'function',
-    '_id.buffer.readDoubleLE': 'function',
-    '_id.buffer.readDoubleBE': 'function',
-    '_id.buffer.writeFloatLE': 'function',
-    '_id.buffer.writeFloatBE': 'function',
-    '_id.buffer.writeDoubleLE': 'function',
-    '_id.buffer.writeDoubleBE': 'function',
-    '_id.buffer.asciiSlice': 'function',
-    '_id.buffer.base64Slice': 'function',
-    '_id.buffer.base64urlSlice': 'function',
-    '_id.buffer.latin1Slice': 'function',
-    '_id.buffer.hexSlice': 'function',
-    '_id.buffer.ucs2Slice': 'function',
-    '_id.buffer.utf8Slice': 'function',
-    '_id.buffer.asciiWrite': 'function',
-    '_id.buffer.base64Write': 'function',
-    '_id.buffer.base64urlWrite': 'function',
-    '_id.buffer.latin1Write': 'function',
-    '_id.buffer.hexWrite': 'function',
-    '_id.buffer.ucs2Write': 'function',
-    '_id.buffer.utf8Write': 'function',
-    '_id.buffer.parent': 'object',
-    '_id.buffer.offset': 'number',
-    '_id.buffer.copy': 'function',
-    '_id.buffer.toString': 'function',
-    '_id.buffer.equals': 'function',
-    '_id.buffer.inspect': 'function',
-    '_id.buffer.compare': 'function',
-    '_id.buffer.indexOf': 'function',
-    '_id.buffer.lastIndexOf': 'function',
-    '_id.buffer.includes': 'function',
-    '_id.buffer.fill': 'function',
-    '_id.buffer.write': 'function',
-    '_id.buffer.toJSON': 'function',
-    '_id.buffer.subarray': 'function',
-    '_id.buffer.slice': 'function',
-    '_id.buffer.swap16': 'function',
-    '_id.buffer.swap32': 'function',
-    '_id.buffer.swap64': 'function',
-    '_id.buffer.toLocaleString': 'function',
-    '_id.serverVersions': 'array',
-    '_id.platforms': 'array',
-    '_id.topologies': 'array',
-    '_id.help': 'function',
-    name: 'string',
-    email: 'string',
-    movie_id: 'object',
-    'movie_id.buffer': 'object',
-    'movie_id.buffer.0': 'number',
-    'movie_id.buffer.1': 'number',
-    'movie_id.buffer.2': 'number',
-    'movie_id.buffer.3': 'number',
-    'movie_id.buffer.4': 'number',
-    'movie_id.buffer.5': 'number',
-    'movie_id.buffer.6': 'number',
-    'movie_id.buffer.7': 'number',
-    'movie_id.buffer.8': 'number',
-    'movie_id.buffer.9': 'number',
-    'movie_id.buffer.10': 'number',
-    'movie_id.buffer.11': 'number',
-    'movie_id.buffer.readBigUInt64LE': 'function',
-    'movie_id.buffer.readBigUInt64BE': 'function',
-    'movie_id.buffer.readBigUint64LE': 'function',
-    'movie_id.buffer.readBigUint64BE': 'function',
-    'movie_id.buffer.readBigInt64LE': 'function',
-    'movie_id.buffer.readBigInt64BE': 'function',
-    'movie_id.buffer.writeBigUInt64LE': 'function',
-    'movie_id.buffer.writeBigUInt64BE': 'function',
-    'movie_id.buffer.writeBigUint64LE': 'function',
-    'movie_id.buffer.writeBigUint64BE': 'function',
-    'movie_id.buffer.writeBigInt64LE': 'function',
-    'movie_id.buffer.writeBigInt64BE': 'function',
-    'movie_id.buffer.readUIntLE': 'function',
-    'movie_id.buffer.readUInt32LE': 'function',
-    'movie_id.buffer.readUInt16LE': 'function',
-    'movie_id.buffer.readUInt8': 'function',
-    'movie_id.buffer.readUIntBE': 'function',
-    'movie_id.buffer.readUInt32BE': 'function',
-    'movie_id.buffer.readUInt16BE': 'function',
-    'movie_id.buffer.readUintLE': 'function',
-    'movie_id.buffer.readUint32LE': 'function',
-    'movie_id.buffer.readUint16LE': 'function',
-    'movie_id.buffer.readUint8': 'function',
-    'movie_id.buffer.readUintBE': 'function',
-    'movie_id.buffer.readUint32BE': 'function',
-    'movie_id.buffer.readUint16BE': 'function',
-    'movie_id.buffer.readIntLE': 'function',
-    'movie_id.buffer.readInt32LE': 'function',
-    'movie_id.buffer.readInt16LE': 'function',
-    'movie_id.buffer.readInt8': 'function',
-    'movie_id.buffer.readIntBE': 'function',
+{  
+  comments: {  
+    _id: 'object',  
+    '_id.buffer': 'object',  
+    '_id.buffer.0': 'number',  
+    '_id.buffer.1': 'number',  
+    '_id.buffer.2': 'number',  
+    '_id.buffer.3': 'number',  
+    '_id.buffer.4': 'number',  
+    '_id.buffer.5': 'number',  
+    '_id.buffer.6': 'number',  
+    '_id.buffer.7': 'number',  
+    '_id.buffer.8': 'number',  
+    '_id.buffer.9': 'number',  
+    '_id.buffer.10': 'number',  
+    '_id.buffer.11': 'number',  
+    '_id.buffer.readBigUInt64LE': 'function',  
+    '_id.buffer.readBigUInt64BE': 'function',  
+    '_id.buffer.readBigUint64LE': 'function',  
+    '_id.buffer.readBigUint64BE': 'function',  
+    '_id.buffer.readBigInt64LE': 'function',  
+    '_id.buffer.readBigInt64BE': 'function',  
+    '_id.buffer.writeBigUInt64LE': 'function',  
+    '_id.buffer.writeBigUInt64BE': 'function',  
+    '_id.buffer.writeBigUint64LE': 'function',  
+    '_id.buffer.writeBigUint64BE': 'function',  
+    '_id.buffer.writeBigInt64LE': 'function',  
+    '_id.buffer.writeBigInt64BE': 'function',  
+    '_id.buffer.readUIntLE': 'function',  
+    '_id.buffer.readUInt32LE': 'function',  
+    '_id.buffer.readUInt16LE': 'function',  
+    '_id.buffer.readUInt8': 'function',  
+    '_id.buffer.readUIntBE': 'function',   
+    '_id.buffer.readUInt32BE': 'function',  
+    '_id.buffer.readUInt16BE': 'function',  
+    '_id.buffer.readUintLE': 'function',  
+    '_id.buffer.readUint32LE': 'function',  
+    '_id.buffer.readUint16LE': 'function',  
+    '_id.buffer.readUint8': 'function',  
+    '_id.buffer.readUintBE': 'function',  
+    '_id.buffer.readUint32BE': 'function',  
+    '_id.buffer.readUint16BE': 'function',  
+    '_id.buffer.readIntLE': 'function',  
+    '_id.buffer.readInt32LE': 'function',  
+    '_id.buffer.readInt16LE': 'function',  
+    '_id.buffer.readInt8': 'function',  
+    '_id.buffer.readIntBE': 'function',  
+    '_id.buffer.readInt32BE': 'function',  
+    '_id.buffer.readInt16BE': 'function',  
+    '_id.buffer.writeUIntLE': 'function',  
+    '_id.buffer.writeUInt32LE': 'function',  
+    '_id.buffer.writeUInt16LE': 'function',  
+    '_id.buffer.writeUInt8': 'function',  
+    '_id.buffer.writeUIntBE': 'function',  
+    '_id.buffer.writeUInt32BE': 'function',  
+    '_id.buffer.writeUInt16BE': 'function',  
+    '_id.buffer.writeUintLE': 'function',  
+    '_id.buffer.writeUint32LE': 'function',  
+    '_id.buffer.writeUint16LE': 'function',    
+    '_id.buffer.writeUint8': 'function',  
+    '_id.buffer.writeUintBE': 'function',  
+    '_id.buffer.writeUint32BE': 'function',  
+    '_id.buffer.writeUint16BE': 'function',  
+    '_id.buffer.writeIntLE': 'function',  
+    '_id.buffer.writeInt32LE': 'function',  
+    '_id.buffer.writeInt16LE': 'function',  
+    '_id.buffer.writeInt8': 'function',  
+    '_id.buffer.writeIntBE': 'function',  
+    '_id.buffer.writeInt32BE': 'function',  
+    '_id.buffer.writeInt16BE': 'function',  
+    '_id.buffer.readFloatLE': 'function',  
+    '_id.buffer.readFloatBE': 'function',  
+    '_id.buffer.readDoubleLE': 'function',  
+    '_id.buffer.readDoubleBE': 'function',  
+    '_id.buffer.writeFloatLE': 'function',  
+    '_id.buffer.writeFloatBE': 'function',  
+    '_id.buffer.writeDoubleLE': 'function',  
+    '_id.buffer.writeDoubleBE': 'function',  
+    '_id.buffer.asciiSlice': 'function',  
+    '_id.buffer.base64Slice': 'function',  
+    '_id.buffer.base64urlSlice': 'function',  
+    '_id.buffer.latin1Slice': 'function',  
+    '_id.buffer.hexSlice': 'function',  
+    '_id.buffer.ucs2Slice': 'function',  
+    '_id.buffer.utf8Slice': 'function',  
+    '_id.buffer.asciiWrite': 'function',  
+    '_id.buffer.base64Write': 'function',  
+    '_id.buffer.base64urlWrite': 'function',  
+    '_id.buffer.latin1Write': 'function',  
+    '_id.buffer.hexWrite': 'function',  
+    '_id.buffer.ucs2Write': 'function',  
+    '_id.buffer.utf8Write': 'function',  
+    '_id.buffer.parent': 'object',   
+    '_id.buffer.offset': 'number',  
+    '_id.buffer.copy': 'function',  
+    '_id.buffer.toString': 'function',  
+    '_id.buffer.equals': 'function',  
+    '_id.buffer.inspect': 'function',  
+    '_id.buffer.compare': 'function',  
+    '_id.buffer.indexOf': 'function',  
+    '_id.buffer.lastIndexOf': 'function',  
+    '_id.buffer.includes': 'function',  
+    '_id.buffer.fill': 'function',  
+    '_id.buffer.write': 'function',  
+    '_id.buffer.toJSON': 'function',  
+    '_id.buffer.subarray': 'function',  
+    '_id.buffer.slice': 'function',  
+    '_id.buffer.swap16': 'function',  
+    '_id.buffer.swap32': 'function',  
+    '_id.buffer.swap64': 'function',  
+    '_id.buffer.toLocaleString': 'function',  
+    '_id.serverVersions': 'array',  
+    '_id.platforms': 'array',  
+    '_id.topologies': 'array',  
+    '_id.help': 'function',  
+    name: 'string',  
+    email: 'string',  
+    movie_id: 'object',  
+    'movie_id.buffer': 'object',  
+    'movie_id.buffer.0': 'number',  
+    'movie_id.buffer.1': 'number',  
+    'movie_id.buffer.2': 'number',  
+    'movie_id.buffer.3': 'number',  
+    'movie_id.buffer.4': 'number',  
+    'movie_id.buffer.5': 'number',  
+    'movie_id.buffer.6': 'number',  
+    'movie_id.buffer.7': 'number',  
+    'movie_id.buffer.8': 'number',  
+    'movie_id.buffer.9': 'number',  
+    'movie_id.buffer.10': 'number',  
+    'movie_id.buffer.11': 'number',  
+    'movie_id.buffer.readBigUInt64LE': 'function',  
+    'movie_id.buffer.readBigUInt64BE': 'function',  
+    'movie_id.buffer.readBigUint64LE': 'function',  
+    'movie_id.buffer.readBigUint64BE': 'function',  
+    'movie_id.buffer.readBigInt64LE': 'function',  
+    'movie_id.buffer.readBigInt64BE': 'function',  
+    'movie_id.buffer.writeBigUInt64LE': 'function',  
+    'movie_id.buffer.writeBigUInt64BE': 'function',  
+    'movie_id.buffer.writeBigUint64LE': 'function',   
+    'movie_id.buffer.writeBigUint64BE': 'function',  
+    'movie_id.buffer.writeBigInt64LE': 'function',  
+    'movie_id.buffer.writeBigInt64BE': 'function',  
+    'movie_id.buffer.readUIntLE': 'function',  
+    'movie_id.buffer.readUInt32LE': 'function',  
+    'movie_id.buffer.readUInt16LE': 'function',  
+    'movie_id.buffer.readUInt8': 'function',  
+    'movie_id.buffer.readUIntBE': 'function',  
+    'movie_id.buffer.readUInt32BE': 'function',  
+    'movie_id.buffer.readUInt16BE': 'function',  
+    'movie_id.buffer.readUintLE': 'function',  
+    'movie_id.buffer.readUint32LE': 'function',  
+    'movie_id.buffer.readUint16LE': 'function',  
+    'movie_id.buffer.readUint8': 'function',  
+    'movie_id.buffer.readUintBE': 'function',  
+    'movie_id.buffer.readUint32BE': 'function',  
+    'movie_id.buffer.readUint16BE': 'function',  
+    'movie_id.buffer.readIntLE': 'function',  
+    'movie_id.buffer.readInt32LE': 'function',  
+    'movie_id.buffer.readInt16LE': 'function',  
+    'movie_id.buffer.readInt8': 'function',  
+    'movie_id.buffer.readIntBE': 'function',  
     'movie_id.buffer.readInt32BE': 'function',
-    'movie_id.buffer.readInt16BE': 'function',
-    'movie_id.buffer.writeUIntLE': 'function',
-    'movie_id.buffer.writeUInt32LE': 'function',
-    'movie_id.buffer.writeUInt16LE': 'function',
-    'movie_id.buffer.writeUInt8': 'function',
-    'movie_id.buffer.writeUIntBE': 'function',
-    'movie_id.buffer.writeUInt32BE': 'function',
-    'movie_id.buffer.writeUInt16BE': 'function',
-    'movie_id.buffer.writeUintLE': 'function',
-    'movie_id.buffer.writeUint32LE': 'function',
-    'movie_id.buffer.writeUint16LE': 'function',
-    'movie_id.buffer.writeUint8': 'function',
-    'movie_id.buffer.writeUintBE': 'function',
-    'movie_id.buffer.writeUint32BE': 'function',
-    'movie_id.buffer.writeUint16BE': 'function',
-    'movie_id.buffer.writeIntLE': 'function',
-    'movie_id.buffer.writeInt32LE': 'function',
-    'movie_id.buffer.writeInt16LE': 'function',
-    'movie_id.buffer.writeInt8': 'function',
-    'movie_id.buffer.writeIntBE': 'function',
-    'movie_id.buffer.writeInt32BE': 'function',
-    'movie_id.buffer.writeInt16BE': 'function',
-    'movie_id.buffer.readFloatLE': 'function',
-    'movie_id.buffer.readFloatBE': 'function',
-    'movie_id.buffer.readDoubleLE': 'function',
-    'movie_id.buffer.readDoubleBE': 'function',
-    'movie_id.buffer.writeFloatLE': 'function',
-    'movie_id.buffer.writeFloatBE': 'function',
-    'movie_id.buffer.writeDoubleLE': 'function',
-    'movie_id.buffer.writeDoubleBE': 'function',
-    'movie_id.buffer.asciiSlice': 'function',
-    'movie_id.buffer.base64Slice': 'function',
-    'movie_id.buffer.base64urlSlice': 'function',
-    'movie_id.buffer.latin1Slice': 'function',
-    'movie_id.buffer.hexSlice': 'function',
-    'movie_id.buffer.ucs2Slice': 'function',
-    'movie_id.buffer.utf8Slice': 'function',
-    'movie_id.buffer.asciiWrite': 'function',
-    'movie_id.buffer.base64Write': 'function',
-    'movie_id.buffer.base64urlWrite': 'function',
-    'movie_id.buffer.latin1Write': 'function',
-    'movie_id.buffer.hexWrite': 'function',
-    'movie_id.buffer.ucs2Write': 'function',
-    'movie_id.buffer.utf8Write': 'function',
-    'movie_id.buffer.parent': 'object',
-    'movie_id.buffer.offset': 'number',
-    'movie_id.buffer.copy': 'function',
-    'movie_id.buffer.toString': 'function',
-    'movie_id.buffer.equals': 'function',
-    'movie_id.buffer.inspect': 'function',
-    'movie_id.buffer.compare': 'function',
-    'movie_id.buffer.indexOf': 'function',
-    'movie_id.buffer.lastIndexOf': 'function',
-    'movie_id.buffer.includes': 'function',
-    'movie_id.buffer.fill': 'function',
-    'movie_id.buffer.write': 'function',
-    'movie_id.buffer.toJSON': 'function',
-    'movie_id.buffer.subarray': 'function',
-    'movie_id.buffer.slice': 'function',
-    'movie_id.buffer.swap16': 'function',
-    'movie_id.buffer.swap32': 'function',
-    'movie_id.buffer.swap64': 'function',
-    'movie_id.buffer.toLocaleString': 'function',
-    'movie_id.serverVersions': 'array',
-    'movie_id.platforms': 'array',
-    'movie_id.topologies': 'array',
-    'movie_id.help': 'function',
-    text: 'string',
-    date: 'object'
-  },
+    'movie_id.buffer.readInt16BE': 'function',  
+    'movie_id.buffer.writeUIntLE': 'function',  
+    'movie_id.buffer.writeUInt32LE': 'function',  
+    'movie_id.buffer.writeUInt16LE': 'function',  
+    'movie_id.buffer.writeUInt8': 'function',  
+    'movie_id.buffer.writeUIntBE': 'function',  
+    'movie_id.buffer.writeUInt32BE': 'function',  
+    'movie_id.buffer.writeUInt16BE': 'function',  
+    'movie_id.buffer.writeUintLE': 'function',  
+    'movie_id.buffer.writeUint32LE': 'function',  
+    'movie_id.buffer.writeUint16LE': 'function',  
+    'movie_id.buffer.writeUint8': 'function',  
+    'movie_id.buffer.writeUintBE': 'function',    
+    'movie_id.buffer.writeUint32BE': 'function',  
+    'movie_id.buffer.writeUint16BE': 'function',  
+    'movie_id.buffer.writeIntLE': 'function',  
+    'movie_id.buffer.writeInt32LE': 'function',  
+    'movie_id.buffer.writeInt16LE': 'function',  
+    'movie_id.buffer.writeInt8': 'function',  
+    'movie_id.buffer.writeIntBE': 'function',  
+    'movie_id.buffer.writeInt32BE': 'function',  
+    'movie_id.buffer.writeInt16BE': 'function',  
+    'movie_id.buffer.readFloatLE': 'function',  
+    'movie_id.buffer.readFloatBE': 'function',  
+    'movie_id.buffer.readDoubleLE': 'function',  
+    'movie_id.buffer.readDoubleBE': 'function',  
+    'movie_id.buffer.writeFloatLE': 'function',  
+    'movie_id.buffer.writeFloatBE': 'function',  
+    'movie_id.buffer.writeDoubleLE': 'function',  
+    'movie_id.buffer.writeDoubleBE': 'function',  
+    'movie_id.buffer.asciiSlice': 'function',  
+    'movie_id.buffer.base64Slice': 'function',  
+    'movie_id.buffer.base64urlSlice': 'function',  
+    'movie_id.buffer.latin1Slice': 'function',  
+    'movie_id.buffer.hexSlice': 'function',  
+    'movie_id.buffer.ucs2Slice': 'function',  
+    'movie_id.buffer.utf8Slice': 'function',  
+    'movie_id.buffer.asciiWrite': 'function',  
+    'movie_id.buffer.base64Write': 'function',  
+    'movie_id.buffer.base64urlWrite': 'function',  
+    'movie_id.buffer.latin1Write': 'function',  
+    'movie_id.buffer.hexWrite': 'function',  
+    'movie_id.buffer.ucs2Write': 'function',  
+    'movie_id.buffer.utf8Write': 'function',  
+    'movie_id.buffer.parent': 'object',  
+    'movie_id.buffer.offset': 'number',  
+    'movie_id.buffer.copy': 'function',  
+    'movie_id.buffer.toString': 'function',  
+    'movie_id.buffer.equals': 'function',  
+    'movie_id.buffer.inspect': 'function',  
+    'movie_id.buffer.compare': 'function',  
+    'movie_id.buffer.indexOf': 'function',  
+    'movie_id.buffer.lastIndexOf': 'function',  
+    'movie_id.buffer.includes': 'function',  
+    'movie_id.buffer.fill': 'function',  
+    'movie_id.buffer.write': 'function',  
+    'movie_id.buffer.toJSON': 'function',  
+    'movie_id.buffer.subarray': 'function',  
+    'movie_id.buffer.slice': 'function',  
+    'movie_id.buffer.swap16': 'function',  
+    'movie_id.buffer.swap32': 'function',  
+    'movie_id.buffer.swap64': 'function',  
+    'movie_id.buffer.toLocaleString': 'function',  
+    'movie_id.serverVersions': 'array',  
+    'movie_id.platforms': 'array',  
+    'movie_id.topologies': 'array',  
+    'movie_id.help': 'function',  
+    text: 'string',  
+    date: 'object'  
+  },  
   movies: {
     _id: 'object',
     '_id.buffer': 'object',
@@ -802,70 +802,70 @@ SELECT table_name, column_name, data_type
 
 SELECT table_name, column_name, data_type
 
-"album"	"album_id"	"integer"
-"album"	"title"	"character varying"
-"album"	"artist_id"	"integer"
-"artist"	"artist_id"	"integer"
-"artist"	"name"	"character varying"
-"customer"	"customer_id"	"integer"
-"customer"	"first_name"	"character varying"
-"customer"	"last_name"	"character varying"
-"customer"	"company"	"character varying"
-"customer"	"address"	"character varying"
-"customer"	"city"	"character varying"
-"customer"	"state"	"character varying"
-"customer"	"country"	"character varying"
-"customer"	"postal_code"	"character varying"
-"customer"	"phone"	"character varying"
-"customer"	"fax"	"character varying"
-"customer"	"email"	"character varying"
-"customer"	"support_rep_id"	"integer"
-"employee"	"employee_id"	"integer"
-"employee"	"last_name"	"character varying"
-"employee"	"first_name"	"character varying"
-"employee"	"title"	"character varying"
-"employee"	"reports_to"	"integer"
-"employee"	"birth_date"	"timestamp without time zone"
-"employee"	"hire_date"	"timestamp without time zone"
-"employee"	"address"	"character varying"
-"employee"	"city"	"character varying"
-"employee"	"state"	"character varying"
-"employee"	"country"	"character varying"
-"employee"	"postal_code"	"character varying"
-"employee"	"phone"	"character varying"
-"employee"	"fax"	"character varying"
-"employee"	"email"	"character varying"
-"genre"	"genre_id"	"integer"
-"genre"	"name"	"character varying"
-"invoice"	"invoice_id"	"integer"
-"invoice"	"customer_id"	"integer"
-"invoice"	"invoice_date"	"timestamp without time zone"
-"invoice"	"billing_address"	"character varying"
-"invoice"	"billing_city"	"character varying"
-"invoice"	"billing_state"	"character varying"
-"invoice"	"billing_country"	"character varying"
-"invoice"	"billing_postal_code"	"character varying"
-"invoice"	"total"	"numeric"
-"invoice_line"	"invoice_line_id"	"integer"
-"invoice_line"	"invoice_id"	"integer"
-"invoice_line"	"track_id"	"integer"
-"invoice_line"	"unit_price"	"numeric"
-"invoice_line"	"quantity"	"integer"
-"media_type"	"media_type_id"	"integer"
-"media_type"	"name"	"character varying"
-"playlist"	"playlist_id"	"integer"
-"playlist"	"name"	"character varying"
-"playlist_track"	"playlist_id"	"integer"
-"playlist_track"	"track_id"	"integer"
-"track"	"track_id"	"integer"
-"track"	"name"	"character varying"
-"track"	"album_id"	"integer"
-"track"	"media_type_id"	"integer"
-"track"	"genre_id"	"integer"
-"track"	"composer"	"character varying"
-"track"	"milliseconds"	"integer"
-"track"	"bytes"	"integer"
-"track"	"unit_price"	"numeric"
+"album"	"album_id"	"integer"  
+"album"	"title"	"character varying"  
+"album"	"artist_id"	"integer"  
+"artist"	"artist_id"	"integer"  
+"artist"	"name"	"character varying"  
+"customer"	"customer_id"	"integer"  
+"customer"	"first_name"	"character varying"  
+"customer"	"last_name"	"character varying"  
+"customer"	"company"	"character varying"  
+"customer"	"address"	"character varying"  
+"customer"	"city"	"character varying"  
+"customer"	"state"	"character varying"  
+"customer"	"country"	"character varying"  
+"customer"	"postal_code"	"character varying"  
+"customer"	"phone"	"character varying"  
+"customer"	"fax"	"character varying"  
+"customer"	"email"	"character varying"  
+"customer"	"support_rep_id"	"integer"  
+"employee"	"employee_id"	"integer"  
+"employee"	"last_name"	"character varying"  
+"employee"	"first_name"	"character varying"  
+"employee"	"title"	"character varying"  
+"employee"	"reports_to"	"integer"  
+"employee"	"birth_date"	"timestamp without time zone"  
+"employee"	"hire_date"	"timestamp without time zone"  
+"employee"	"address"	"character varying"  
+"employee"	"city"	"character varying"  
+"employee"	"state"	"character varying"  
+"employee"	"country"	"character varying"  
+"employee"	"postal_code"	"character varying"  
+"employee"	"phone"	"character varying"  
+"employee"	"fax"	"character varying"  
+"employee"	"email"	"character varying"  
+"genre"	"genre_id"	"integer"  
+"genre"	"name"	"character varying"  
+"invoice"	"invoice_id"	"integer"  
+"invoice"	"customer_id"	"integer"  
+"invoice"	"invoice_date"	"timestamp without time zone"  
+"invoice"	"billing_address"	"character varying"  
+"invoice"	"billing_city"	"character varying"  
+"invoice"	"billing_state"	"character varying"  
+"invoice"	"billing_country"	"character varying"  
+"invoice"	"billing_postal_code"	"character varying"  
+"invoice"	"total"	"numeric"  
+"invoice_line"	"invoice_line_id"	"integer"  
+"invoice_line"	"invoice_id"	"integer"  
+"invoice_line"	"track_id"	"integer"  
+"invoice_line"	"unit_price"	"numeric"  
+"invoice_line"	"quantity"	"integer"  
+"media_type"	"media_type_id"	"integer"  
+"media_type"	"name"	"character varying"  
+"playlist"	"playlist_id"	"integer"  
+"playlist"	"name"	"character varying"  
+"playlist_track"	"playlist_id"	"integer"  
+"playlist_track"	"track_id"	"integer"  
+"track"	"track_id"	"integer"  
+"track"	"name"	"character varying"  
+"track"	"album_id"	"integer"  
+"track"	"media_type_id"	"integer"  
+"track"	"genre_id"	"integer"  
+"track"	"composer"	"character varying"  
+"track"	"milliseconds"	"integer"  
+"track"	"bytes"	"integer"  
+"track"	"unit_price"	"numeric"  
 
 # Mongo:
 <img width="270" height="198" alt="image" src="https://github.com/user-attachments/assets/f4b4bfe5-d64a-445c-96bc-5628248f976d" />
@@ -877,102 +877,102 @@ SELECT table_name, column_name, data_type
 <img width="778" height="282" alt="image" src="https://github.com/user-attachments/assets/7e25d34e-615e-4b2a-b104-fc525bc48901" />
 <img width="876" height="632" alt="image" src="https://github.com/user-attachments/assets/71bb250c-f424-43b6-98d7-48fecfb44488" />
 
-{
-  restored_artist: {
-    _id: 'number',
-    artist_id: 'number',
-    name: 'string',
-    global_uuid: 'string',
-    nested_album: 'array',
-    'nested_album[].album_id': 'number',
-    'nested_album[].title': 'string',
-    'nested_album[].artist_id': 'number',
-    'nested_album[].nested_track': 'array',
-    'nested_album[].nested_track[].track_id': 'number',
-    'nested_album[].nested_track[].name': 'string',
-    'nested_album[].nested_track[].album_id': 'number',
-    'nested_album[].nested_track[].media_type_id': 'number',
-    'nested_album[].nested_track[].genre_id': 'number',
-    'nested_album[].nested_track[].composer': 'string',
-    'nested_album[].nested_track[].milliseconds': 'number',
-    'nested_album[].nested_track[].bytes': 'number',
-    'nested_album[].nested_track[].unit_price': 'number',
-    'nested_album[].nested_track[].playlist_details': 'array',
-    'nested_album[].nested_track[].playlist_details[].playlist_id': 'number'
-  },
-  restored_employee: {
-    _id: 'number',
-    employee_id: 'number',
-    last_name: 'string',
-    first_name: 'string',
-    title: 'string',
-    reports_to: 'null',
-    birth_date: 'string',
-    hire_date: 'string',
-    address: 'string',
-    city: 'string',
-    state: 'string',
-    country: 'string',
-    postal_code: 'string',
-    phone: 'string',
-    fax: 'string',
-    email: 'string',
-    global_uuid: 'string'
-  },
-  restored_customer: {
-    _id: 'number',
-    customer_id: 'number',
-    first_name: 'string',
-    last_name: 'string',
-    company: 'string',
-    address: 'string',
-    city: 'string',
-    state: 'string',
-    country: 'string',
-    postal_code: 'string',
-    phone: 'string',
-    fax: 'string',
-    email: 'string',
-    support_rep_id: 'number',
-    global_uuid: 'string',
-    nested_invoice: 'array',
-    'nested_invoice[].invoice_id': 'number',
-    'nested_invoice[].customer_id': 'number',
-    'nested_invoice[].invoice_date': 'string',
-    'nested_invoice[].billing_address': 'string',
-    'nested_invoice[].billing_city': 'string',
-    'nested_invoice[].billing_state': 'string',
-    'nested_invoice[].billing_country': 'string',
-    'nested_invoice[].billing_postal_code': 'string',
-    'nested_invoice[].total': 'number',
-    'nested_invoice[].nested_invoice_line': 'array',
-    'nested_invoice[].nested_invoice_line[].invoice_line_id': 'number',
-    'nested_invoice[].nested_invoice_line[].invoice_id': 'number',
-    'nested_invoice[].nested_invoice_line[].track_id': 'number',
-    'nested_invoice[].nested_invoice_line[].unit_price': 'number',
-    'nested_invoice[].nested_invoice_line[].quantity': 'number'
-  },
-  restored_genre: {
-    _id: 'number',
-    genre_id: 'number',
-    name: 'string',
-    global_uuid: 'string'
-  },
-  restored_media_type: {
-    _id: 'number',
-    media_type_id: 'number',
-    name: 'string',
-    global_uuid: 'string'
-  },
-  restored_playlist: {
-    _id: 'number',
-    playlist_id: 'number',
-    name: 'string',
-    global_uuid: 'string',
-    track_details: 'array',
-    'track_details[].track_id': 'number'
-  }
-}
+{  
+  restored_artist: {  
+    _id: 'number',  
+    artist_id: 'number',  
+    name: 'string',  
+    global_uuid: 'string',  
+    nested_album: 'array',  
+    'nested_album[].album_id': 'number',  
+    'nested_album[].title': 'string',  
+    'nested_album[].artist_id': 'number',  
+    'nested_album[].nested_track': 'array',  
+    'nested_album[].nested_track[].track_id': 'number',  
+    'nested_album[].nested_track[].name': 'string',  
+    'nested_album[].nested_track[].album_id': 'number',  
+    'nested_album[].nested_track[].media_type_id': 'number',  
+    'nested_album[].nested_track[].genre_id': 'number',  
+    'nested_album[].nested_track[].composer': 'string',  
+    'nested_album[].nested_track[].milliseconds': 'number',  
+    'nested_album[].nested_track[].bytes': 'number',  
+    'nested_album[].nested_track[].unit_price': 'number',  
+    'nested_album[].nested_track[].playlist_details': 'array',  
+    'nested_album[].nested_track[].playlist_details[].playlist_id': 'number'  
+  },  
+  restored_employee: {  
+    _id: 'number',  
+    employee_id: 'number',  
+    last_name: 'string',  
+    first_name: 'string',  
+    title: 'string',  
+    reports_to: 'null',  
+    birth_date: 'string',  
+    hire_date: 'string',  
+    address: 'string',  
+    city: 'string',  
+    state: 'string',  
+    country: 'string',  
+    postal_code: 'string',  
+    phone: 'string',  
+    fax: 'string',  
+    email: 'string',  
+    global_uuid: 'string'  
+  },  
+  restored_customer: {  
+    _id: 'number',  
+    customer_id: 'number',  
+    first_name: 'string',  
+    last_name: 'string',  
+    company: 'string',  
+    address: 'string',  
+    city: 'string',  
+    state: 'string',  
+    country: 'string',  
+    postal_code: 'string',  
+    phone: 'string',  
+    fax: 'string',  
+    email: 'string',  
+    support_rep_id: 'number',  
+    global_uuid: 'string',  
+    nested_invoice: 'array',  
+    'nested_invoice[].invoice_id': 'number',  
+    'nested_invoice[].customer_id': 'number',  
+    'nested_invoice[].invoice_date': 'string',  
+    'nested_invoice[].billing_address': 'string',  
+    'nested_invoice[].billing_city': 'string',  
+    'nested_invoice[].billing_state': 'string',  
+    'nested_invoice[].billing_country': 'string',  
+    'nested_invoice[].billing_postal_code': 'string',  
+    'nested_invoice[].total': 'number',  
+    'nested_invoice[].nested_invoice_line': 'array',  
+    'nested_invoice[].nested_invoice_line[].invoice_line_id': 'number',  
+    'nested_invoice[].nested_invoice_line[].invoice_id': 'number',  
+    'nested_invoice[].nested_invoice_line[].track_id': 'number',  
+    'nested_invoice[].nested_invoice_line[].unit_price': 'number',  
+    'nested_invoice[].nested_invoice_line[].quantity': 'number'  
+  },  
+  restored_genre: {  
+    _id: 'number',  
+    genre_id: 'number',  
+    name: 'string',  
+    global_uuid: 'string'  
+  },  
+  restored_media_type: {  
+    _id: 'number',  
+    media_type_id: 'number',  
+    name: 'string',  
+    global_uuid: 'string'  
+  },  
+  restored_playlist: {  
+    _id: 'number',  
+    playlist_id: 'number',  
+    name: 'string',  
+    global_uuid: 'string',  
+    track_details: 'array',  
+    'track_details[].track_id': 'number'  
+  }  
+}  
 
 
 
